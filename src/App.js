@@ -26,7 +26,6 @@ const App = () => {
     const newFilteredMonsters = monsters?.filter((monster) =>
       monster?.name.toLowerCase().includes(searchField?.toLowerCase())
     );
-    console.log("rerender");
     setFilteredMonsters(newFilteredMonsters);
   }, [monsters, searchField]);
 

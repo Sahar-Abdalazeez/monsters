@@ -1,9 +1,13 @@
 .card-list {
-    /* background-color: red; */
-    width:70%;
-    margin: 0 auto;
-    display:grid ;
-    grid-template-columns: 1fr 1fr 1fr 1fr ;
-    grid-gap: 20px;
-    padding-top: 40px;
+  width: 70%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  padding: 40px 0px;
+}
+
+.notfound {
+  width: 100%;
+  font-size: 170px;
 }
