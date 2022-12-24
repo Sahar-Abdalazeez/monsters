@@ -26,3 +26,8 @@ on Udemy .
 3- learning some style using css .
 
 ![Screenshot](monsters.png)
+
+# you can visit to see the result
+
+Open [https://dancing-brioche-e1512e.netlify.app
+](https://dancing-brioche-e1512e.netlify.app)
